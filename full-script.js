@@ -4,16 +4,16 @@
 
     // מילון אימוג'ים לדוגמה (אפשר להרחיב)
     const emojiMap = {
-        smile: "😄",
-        heart: "❤️",
-        fire: "🔥",
-        boom: "💥",
-        cool: "😎",
+        חח: "😄",
+        לב: "❤️",
+        אש: "🔥",
+        בום: "💥",
+        מגניב: "😎",
         bowtie: "🤵",
         clap: "👏",
         poop: "💩",
         tada: "🎉",
-        angry: "😠",
+        עצבני: "😠",
     };
 
     // משתנים פנימיים לניהול ההתראות
